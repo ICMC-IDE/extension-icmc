@@ -1,0 +1,14 @@
+{
+  "id": "icmc",
+  "title": "ICMC-IDE",
+  "version": "0.1.0",
+  "emulators": [
+    {
+      "id": "icmc",
+      "title": "ICMC-PROC",
+      "description": "ICMC-IDE Processor",
+      "uri": "/emulator",
+      "tags": ["icmc", "16-bit", "risc"]
+    }
+  ]
+}

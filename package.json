@@ -1,0 +1,16 @@
+{
+  "name": "extension-icmc",
+  "version": "1.0.0",
+  "license": "GPLv3",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7",
+    "vite-plugin-externalize-dependencies": "^1.0.1"
+  },
+  "dependencies": {
+    "@icmc/core": "file:../core"
+  }
+}
