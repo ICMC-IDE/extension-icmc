@@ -1,4 +1,4 @@
-import CharMap from "../resources/charmap";
+import CharMap from "../../resources/charmap";
 import ScreenViewerElement from "./screen-viewer";
 
 const TEMPLATE = document.getElementById(
